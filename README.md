@@ -13,7 +13,7 @@ Portfolio Website:
 https://linknattaporn.lovable.app/
 
 GitHub Portfolio:  
-https://github.com/Saidaeng/nattaporn-data-portfolio
+https://github.com/Saidaeng
 
 ---
 
