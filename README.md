@@ -93,7 +93,7 @@ Python, Matplotlib, Data Visualization
 
 ---
 
-## 🗄 Online Book Rental System
+## 🗄 Online Book Rental System (Thantawan Rent Book)
 
 Database design and web system development project.
 
